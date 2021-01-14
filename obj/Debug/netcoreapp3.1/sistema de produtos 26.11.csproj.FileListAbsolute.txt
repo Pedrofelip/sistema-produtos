@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\bin\Debug\netcoreapp3.1\sistema de produtos 26.11.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\bin\Debug\netcoreapp3.1\sistema de produtos 26.11.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\bin\Debug\netcoreapp3.1\sistema de produtos 26.11.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\bin\Debug\netcoreapp3.1\sistema de produtos 26.11.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\bin\Debug\netcoreapp3.1\sistema de produtos 26.11.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\bin\Debug\netcoreapp3.1\sistema de produtos 26.11.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\obj\Debug\netcoreapp3.1\sistema de produtos 26.11.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\obj\Debug\netcoreapp3.1\sistema de produtos 26.11.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\obj\Debug\netcoreapp3.1\sistema de produtos 26.11.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\obj\Debug\netcoreapp3.1\sistema de produtos 26.11.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\obj\Debug\netcoreapp3.1\sistema de produtos 26.11.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\obj\Debug\netcoreapp3.1\sistema de produtos 26.11.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\sistema de produtos 26.11\obj\Debug\netcoreapp3.1\sistema de produtos 26.11.genruntimeconfig.cache
